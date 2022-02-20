@@ -1,2 +1,1 @@
-Related Photo 
-[dog_relational_database-1024x485](https://user-images.githubusercontent.com/74432853/154869899-4e8d56c4-df29-4c42-bba9-ccd8311dbf0a.png)
+![dog_relational_database-1024x485](https://user-images.githubusercontent.com/74432853/154870003-44ec08a1-8844-43de-a6a3-b778bf64bf49.png)
